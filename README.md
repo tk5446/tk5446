@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tom King</h1>
 <h3 align="center">A passionate developer from the SF Bay Area</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tk5446" alt="tk5446" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=tk5446&title=Commits,LongTimeuser,Experience,Issues,Repositories" alt="tk5446" /> </p>
 
 - 🔭 I’m currently working on **Elastyc AI**
 
