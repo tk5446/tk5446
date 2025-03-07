@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=tk5446&title=Commits,LongTimeuser,Experience,Issues,Repositories" alt="tk5446" /> </p>
 
-- 🔭 I’m currently working on **Elastyc AI**
 
 - 🌱 I’m currently learning **Next.js**
 
