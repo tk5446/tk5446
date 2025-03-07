@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tom King</h1>
 <h3 align="center">A passionate developer from the SF Bay Area</h3>
 
-<p align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tk5446&title=Commits,LongTimeuser,Experience,Issues,Repositories" alt="tk5446" />
-</p>
+</div>
+
 
 
 
