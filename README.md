@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tom King</h1>
 <h3 align="center">A passionate developer from the SF Bay Area</h3>
 
-<p align="center" width="100%"> <img src="https://github-profile-trophy.vercel.app/?username=tk5446&title=Commits,LongTimeuser,Experience,Issues,Repositories" alt="tk5446" /> </p>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <img src="https://github-profile-trophy.vercel.app/?username=tk5446&title=Commits,LongTimeuser,Experience,Issues,Repositories" alt="tk5446" />
+</div>
 
 
 - 🌱 I’m currently learning **Next.js**
