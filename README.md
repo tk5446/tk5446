@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **javascript, ruby, OpenAI, growth**
 
